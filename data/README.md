@@ -74,14 +74,14 @@ unzip -q Flickr.zip
 ```
 rm Flickr.zip
 ```
-5. ~~Download the files:~~
+5. Download the files:
 ```
 formatted_train_labels.npy
 formatted_val_labels.npy
 formatted_train_images.npy
 formatted_val_images.npy
 ```
-~~from [here](https://caltech.box.com/v/single-positive-multi-label) and copy them to `./nus`. Note that these files correspond to the subset of the NUSWIDE dataset that we re-crawled ourselves~~. PS: Since the link has expired, we are providing the formatted image paths directly here.
+from [here](https://drive.google.com/drive/folders/1xeQrQ5uoY1Cw6RQkipWEGJK0E2bDxkgJ?usp=drive_link) and copy them to `./nus`.
 
 
 # A Uniform Format for Data
